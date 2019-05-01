@@ -2774,10 +2774,10 @@ select {
       background-color: #126195;
       color: #fefefe; }
   .button.secondary {
-    background-color: #767676;
+    background-color: #4078c0;
     color: #fefefe; }
     .button.secondary:hover, .button.secondary:focus {
-      background-color: #5e5e5e;
+      background-color: #33609b;
       color: #fefefe; }
   .button.success {
     background-color: #3adb76;
